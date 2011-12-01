@@ -1,0 +1,37 @@
+wooden axle:
+stick, stick
+
+wooden lever:
+stick (yields two levers)
+
+wooden gear:
+none, stick, none
+stick, wood, stick
+none, stick, none
+
+wooden gearbox (repeater, needed after 3 wooden axles):
+wood, wood, wood
+wood, wooden gear, wood
+wood, wood, wood
+
+wooden gearbox with lever (repeater with on/off switch):
+lever,
+gearbox
+
+wooden big gear:
+stick, stick, stick
+stick, wood, stick
+stick, stick, stick
+
+windmill:
+some fabric, stick, some fabric
+stick, wooden big gear, stick
+some fabric, stick, some fabric
+
+watermill:
+wood, wood, wood
+wood, wooden big gear, wood
+wood, wood, wood
+
+wooden screw (water pumping part?):
+gear, axle, gear
